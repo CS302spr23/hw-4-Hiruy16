@@ -19,6 +19,10 @@ Quoting Johanatan Hardwick
         -  Nested it again :joy:
 2. second entry
 
+Just a random Picture
+
+![](Live-wallpapers-for-Windows-10.jpg)
+
 The link to the repository things I dont understand - [ThingsIDontUnderstand](https://github.com/Hiruy16/ThingsIDontUnderstand.git)
 
 The link to my profile ReadMe is - [GithubProfile](https://github.com/Hiruy16/Hiruy16.git)
